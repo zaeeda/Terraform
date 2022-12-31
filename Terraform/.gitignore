@@ -1,0 +1,13 @@
+*.tfstate
+*.tfstate.*
+
+**/.terraform/*
+
+*.sh
+*.sh*
+
+*.pem*
+*.pem
+
+*.pub*
+*.pub
